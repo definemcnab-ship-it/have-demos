@@ -1,0 +1,192 @@
+{
+  "id": "toes-to-bar",
+  "mode": "pingpong",
+  "source": "/Users/liahuang/Desktop/\u7ecf\u671f\u8fd0\u52a8/output/female-demos-v1/sources/toes-to-bar.png",
+  "source_size": [
+    1774,
+    887
+  ],
+  "size": [
+    448,
+    448
+  ],
+  "frames": 14,
+  "duration_ms": 3210,
+  "loop": 0,
+  "bytes": 503960,
+  "sha256": "4d37a1d199634218a52b579af360f0eedf2e45b1f75c1b3cafcf57412d0c5ecf",
+  "image": "/assets/demo-female/toes-to-bar/demo.gif",
+  "poster": "/assets/demo-female/toes-to-bar/poster.jpg",
+  "generator": "built-in image_gen",
+  "source_sha256": "dfc45e61aef10bd2d8788da7b78e236509ec5a41c2c433d0da1a9f7a9a3eb4ea",
+  "sequence": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    6,
+    5,
+    4,
+    3,
+    2,
+    1
+  ],
+  "durations_ms": [
+    450,
+    160,
+    160,
+    160,
+    160,
+    160,
+    160,
+    600,
+    200,
+    200,
+    200,
+    200,
+    200,
+    200
+  ],
+  "registration": {
+    "exercise_id": "toes-to-bar",
+    "policy": "bar",
+    "applied": false,
+    "confidence": 0.0,
+    "reason": "Missing or inconsistent fixed anchors; conservative no-shift fallback.",
+    "anchors": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      146
+    ],
+    "row_anchors": [
+      null,
+      146.0
+    ],
+    "row_median_absolute_deviation": [
+      null,
+      0.0
+    ],
+    "offsets": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "paste_origins": [
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ]
+    ],
+    "canvas_size": [
+      456,
+      456
+    ],
+    "source_sizes": [
+      [
+        440,
+        440
+      ],
+      [
+        439,
+        440
+      ],
+      [
+        439,
+        440
+      ],
+      [
+        440,
+        440
+      ],
+      [
+        440,
+        439
+      ],
+      [
+        439,
+        439
+      ],
+      [
+        439,
+        439
+      ],
+      [
+        440,
+        439
+      ]
+    ],
+    "method": "integer-row-translation-with-padding",
+    "pixels_deformed": false,
+    "source_pixels_cropped": false,
+    "source_bottom_edge_contacts": [],
+    "warnings": []
+  },
+  "cell_border_trim": 2,
+  "palette": "accent-weighted-224"
+}

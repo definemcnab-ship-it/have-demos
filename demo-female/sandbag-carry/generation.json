@@ -1,0 +1,180 @@
+{
+  "id": "sandbag-carry",
+  "mode": "cycle",
+  "source": "/Users/liahuang/Desktop/\u7ecf\u671f\u8fd0\u52a8/output/female-demos-v1/sources/sandbag-carry.png",
+  "source_size": [
+    1774,
+    887
+  ],
+  "size": [
+    448,
+    448
+  ],
+  "frames": 8,
+  "duration_ms": 1760,
+  "loop": 0,
+  "bytes": 259392,
+  "sha256": "fa924807d20f779562f1d98e4019a972d98c5e510b57aa79585724c5dff9c878",
+  "image": "/assets/demo-female/sandbag-carry/demo.gif",
+  "poster": "/assets/demo-female/sandbag-carry/poster.jpg",
+  "generator": "built-in image_gen",
+  "source_sha256": "950a6ab7b7fdd0123f1e2b42590b5abc739c603c7f4a16f83fdae7080581c733",
+  "sequence": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "durations_ms": [
+    220,
+    220,
+    220,
+    220,
+    220,
+    220,
+    220,
+    220
+  ],
+  "registration": {
+    "exercise_id": "sandbag-carry",
+    "policy": "none",
+    "applied": false,
+    "confidence": 0.0,
+    "reason": "Motion has no unambiguous stationary anchor; preserved all source motion.",
+    "anchors": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "row_anchors": [
+      null,
+      null
+    ],
+    "row_median_absolute_deviation": [
+      null,
+      null
+    ],
+    "offsets": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "paste_origins": [
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ]
+    ],
+    "canvas_size": [
+      456,
+      456
+    ],
+    "source_sizes": [
+      [
+        440,
+        440
+      ],
+      [
+        439,
+        440
+      ],
+      [
+        439,
+        440
+      ],
+      [
+        440,
+        440
+      ],
+      [
+        440,
+        439
+      ],
+      [
+        439,
+        439
+      ],
+      [
+        439,
+        439
+      ],
+      [
+        440,
+        439
+      ]
+    ],
+    "method": "integer-row-translation-with-padding",
+    "pixels_deformed": false,
+    "source_pixels_cropped": false,
+    "source_bottom_edge_contacts": [],
+    "warnings": []
+  },
+  "cell_border_trim": 2,
+  "palette": "accent-weighted-224"
+}

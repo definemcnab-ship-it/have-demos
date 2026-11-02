@@ -1,0 +1,192 @@
+{
+  "id": "ring-dip",
+  "mode": "pingpong",
+  "source": "/Users/liahuang/Desktop/\u7ecf\u671f\u8fd0\u52a8/output/female-demos-v1/sources/ring-dip.png",
+  "source_size": [
+    1774,
+    887
+  ],
+  "size": [
+    448,
+    448
+  ],
+  "frames": 14,
+  "duration_ms": 3210,
+  "loop": 0,
+  "bytes": 500345,
+  "sha256": "fb8bfa47edf2ebbbcb00f3f7751c2974bd6f10e381d24025c259b5f09a9df15c",
+  "image": "/assets/demo-female/ring-dip/demo.gif",
+  "poster": "/assets/demo-female/ring-dip/poster.jpg",
+  "generator": "built-in image_gen",
+  "source_sha256": "3a5e04d4c125f652cc616bb85fc51239b1045fc6ecefeec905b0c469dfae5606",
+  "sequence": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    6,
+    5,
+    4,
+    3,
+    2,
+    1
+  ],
+  "durations_ms": [
+    450,
+    160,
+    160,
+    160,
+    160,
+    160,
+    160,
+    600,
+    200,
+    200,
+    200,
+    200,
+    200,
+    200
+  ],
+  "registration": {
+    "exercise_id": "ring-dip",
+    "policy": "none",
+    "applied": false,
+    "confidence": 0.0,
+    "reason": "Motion has no unambiguous stationary anchor; preserved all source motion.",
+    "anchors": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "row_anchors": [
+      null,
+      null
+    ],
+    "row_median_absolute_deviation": [
+      null,
+      null
+    ],
+    "offsets": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "paste_origins": [
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ]
+    ],
+    "canvas_size": [
+      456,
+      456
+    ],
+    "source_sizes": [
+      [
+        440,
+        440
+      ],
+      [
+        439,
+        440
+      ],
+      [
+        439,
+        440
+      ],
+      [
+        440,
+        440
+      ],
+      [
+        440,
+        439
+      ],
+      [
+        439,
+        439
+      ],
+      [
+        439,
+        439
+      ],
+      [
+        440,
+        439
+      ]
+    ],
+    "method": "integer-row-translation-with-padding",
+    "pixels_deformed": false,
+    "source_pixels_cropped": false,
+    "source_bottom_edge_contacts": [],
+    "warnings": []
+  },
+  "cell_border_trim": 2,
+  "palette": "accent-weighted-224"
+}

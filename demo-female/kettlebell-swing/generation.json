@@ -1,0 +1,184 @@
+{
+  "id": "kettlebell-swing",
+  "mode": "cycle",
+  "source": "/Users/liahuang/Desktop/\u7ecf\u671f\u8fd0\u52a8/output/female-demos-v1/sources/kettlebell-swing.png",
+  "source_size": [
+    1774,
+    887
+  ],
+  "size": [
+    448,
+    448
+  ],
+  "frames": 8,
+  "duration_ms": 1760,
+  "loop": 0,
+  "bytes": 279158,
+  "sha256": "bf06f6ebfcbaef02676b31b57b124c4c202e6c5090da519b6c77bf5b6865d4af",
+  "image": "/assets/demo-female/kettlebell-swing/demo.gif",
+  "poster": "/assets/demo-female/kettlebell-swing/poster.jpg",
+  "generator": "built-in image_gen",
+  "source_sha256": "6a6d904b7e963d30204737b005ab95fa5a1bbad1f2d9652a600766e3d3b14331",
+  "sequence": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "durations_ms": [
+    220,
+    220,
+    220,
+    220,
+    220,
+    220,
+    220,
+    220
+  ],
+  "registration": {
+    "exercise_id": "kettlebell-swing",
+    "policy": "floor",
+    "applied": false,
+    "confidence": 0,
+    "reason": "Missing or inconsistent fixed anchors; conservative no-shift fallback.",
+    "anchors": [
+      443,
+      421,
+      422,
+      422,
+      410,
+      408,
+      412,
+      416
+    ],
+    "row_anchors": [
+      422.0,
+      411.0
+    ],
+    "row_median_absolute_deviation": [
+      0.5,
+      2.0
+    ],
+    "offsets": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "paste_origins": [
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ]
+    ],
+    "canvas_size": [
+      460,
+      460
+    ],
+    "source_sizes": [
+      [
+        444,
+        444
+      ],
+      [
+        443,
+        444
+      ],
+      [
+        443,
+        444
+      ],
+      [
+        444,
+        444
+      ],
+      [
+        444,
+        443
+      ],
+      [
+        443,
+        443
+      ],
+      [
+        443,
+        443
+      ],
+      [
+        444,
+        443
+      ]
+    ],
+    "method": "integer-row-translation-with-padding",
+    "pixels_deformed": false,
+    "source_pixels_cropped": false,
+    "source_bottom_edge_contacts": [
+      0
+    ],
+    "warnings": [
+      "Dark source content touches a cell bottom; existing clipping cannot be restored."
+    ]
+  },
+  "cell_border_trim": 0,
+  "palette": "accent-weighted-224"
+}

@@ -1,0 +1,180 @@
+{
+  "id": "keg-carry",
+  "mode": "cycle",
+  "source": "/Users/liahuang/Desktop/\u7ecf\u671f\u8fd0\u52a8/output/female-demos-v1/sources/keg-carry.png",
+  "source_size": [
+    1774,
+    887
+  ],
+  "size": [
+    448,
+    448
+  ],
+  "frames": 8,
+  "duration_ms": 1760,
+  "loop": 0,
+  "bytes": 271911,
+  "sha256": "a7fd9f3222ee99e857f4a68f31d9f0c9a5d44cc2f5ea61dfe49a5621d733d72f",
+  "image": "/assets/demo-female/keg-carry/demo.gif",
+  "poster": "/assets/demo-female/keg-carry/poster.jpg",
+  "generator": "built-in image_gen",
+  "source_sha256": "13eb232f0f87d7fcb3c13ebd43efa25002edd346d143ff1711ee752513260c79",
+  "sequence": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "durations_ms": [
+    220,
+    220,
+    220,
+    220,
+    220,
+    220,
+    220,
+    220
+  ],
+  "registration": {
+    "exercise_id": "keg-carry",
+    "policy": "none",
+    "applied": false,
+    "confidence": 0.0,
+    "reason": "Motion has no unambiguous stationary anchor; preserved all source motion.",
+    "anchors": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "row_anchors": [
+      null,
+      null
+    ],
+    "row_median_absolute_deviation": [
+      null,
+      null
+    ],
+    "offsets": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "paste_origins": [
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ]
+    ],
+    "canvas_size": [
+      456,
+      456
+    ],
+    "source_sizes": [
+      [
+        440,
+        440
+      ],
+      [
+        439,
+        440
+      ],
+      [
+        439,
+        440
+      ],
+      [
+        440,
+        440
+      ],
+      [
+        440,
+        439
+      ],
+      [
+        439,
+        439
+      ],
+      [
+        439,
+        439
+      ],
+      [
+        440,
+        439
+      ]
+    ],
+    "method": "integer-row-translation-with-padding",
+    "pixels_deformed": false,
+    "source_pixels_cropped": false,
+    "source_bottom_edge_contacts": [],
+    "warnings": []
+  },
+  "cell_border_trim": 2,
+  "palette": "accent-weighted-224"
+}

@@ -1,0 +1,192 @@
+{
+  "id": "single-arm-cable-row",
+  "mode": "pingpong",
+  "source": "/Users/liahuang/Desktop/\u7ecf\u671f\u8fd0\u52a8/output/female-demos-v1/sources/single-arm-cable-row.png",
+  "source_size": [
+    1774,
+    887
+  ],
+  "size": [
+    448,
+    448
+  ],
+  "frames": 14,
+  "duration_ms": 3210,
+  "loop": 0,
+  "bytes": 635990,
+  "sha256": "fecb1d61c1d13d9b815d7026e43925520ac56e9b71d1ebcd77a1c0f228d3c27a",
+  "image": "/assets/demo-female/single-arm-cable-row/demo.gif",
+  "poster": "/assets/demo-female/single-arm-cable-row/poster.jpg",
+  "generator": "built-in image_gen",
+  "source_sha256": "dc60dc4cd39f569ef64b3f61c54c5599cefcffb5b9d646d08e17645df23a0f3c",
+  "sequence": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    6,
+    5,
+    4,
+    3,
+    2,
+    1
+  ],
+  "durations_ms": [
+    450,
+    160,
+    160,
+    160,
+    160,
+    160,
+    160,
+    600,
+    200,
+    200,
+    200,
+    200,
+    200,
+    200
+  ],
+  "registration": {
+    "exercise_id": "single-arm-cable-row",
+    "policy": "floor",
+    "applied": false,
+    "confidence": 0.955,
+    "reason": "Fixed anchors already agree within tolerance; no shift applied.",
+    "anchors": [
+      412,
+      412,
+      413,
+      413,
+      411,
+      411,
+      411,
+      411
+    ],
+    "row_anchors": [
+      412.5,
+      411.0
+    ],
+    "row_median_absolute_deviation": [
+      0.5,
+      0.0
+    ],
+    "offsets": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "paste_origins": [
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ]
+    ],
+    "canvas_size": [
+      456,
+      456
+    ],
+    "source_sizes": [
+      [
+        440,
+        440
+      ],
+      [
+        439,
+        440
+      ],
+      [
+        439,
+        440
+      ],
+      [
+        440,
+        440
+      ],
+      [
+        440,
+        439
+      ],
+      [
+        439,
+        439
+      ],
+      [
+        439,
+        439
+      ],
+      [
+        440,
+        439
+      ]
+    ],
+    "method": "integer-row-translation-with-padding",
+    "pixels_deformed": false,
+    "source_pixels_cropped": false,
+    "source_bottom_edge_contacts": [],
+    "warnings": []
+  },
+  "cell_border_trim": 2,
+  "palette": "accent-weighted-224"
+}

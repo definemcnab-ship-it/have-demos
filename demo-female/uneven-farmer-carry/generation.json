@@ -1,0 +1,180 @@
+{
+  "id": "uneven-farmer-carry",
+  "mode": "cycle",
+  "source": "/Users/liahuang/Desktop/\u7ecf\u671f\u8fd0\u52a8/output/female-demos-v1/sources/uneven-farmer-carry.png",
+  "source_size": [
+    1774,
+    887
+  ],
+  "size": [
+    448,
+    448
+  ],
+  "frames": 8,
+  "duration_ms": 1760,
+  "loop": 0,
+  "bytes": 278472,
+  "sha256": "9bf0555cc1e5f3ac7c2f0eeb4cd49e79ecc871b6d34b889a3aadb426ba0d78ec",
+  "image": "/assets/demo-female/uneven-farmer-carry/demo.gif",
+  "poster": "/assets/demo-female/uneven-farmer-carry/poster.jpg",
+  "generator": "built-in image_gen",
+  "source_sha256": "c5c3d24d5c25cfb8af332947db1ac9f8726f8fafee28ddc8aaabd5fec3fe7961",
+  "sequence": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "durations_ms": [
+    220,
+    220,
+    220,
+    220,
+    220,
+    220,
+    220,
+    220
+  ],
+  "registration": {
+    "exercise_id": "uneven-farmer-carry",
+    "policy": "none",
+    "applied": false,
+    "confidence": 0.0,
+    "reason": "Motion has no unambiguous stationary anchor; preserved all source motion.",
+    "anchors": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "row_anchors": [
+      null,
+      null
+    ],
+    "row_median_absolute_deviation": [
+      null,
+      null
+    ],
+    "offsets": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "paste_origins": [
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ]
+    ],
+    "canvas_size": [
+      456,
+      456
+    ],
+    "source_sizes": [
+      [
+        440,
+        440
+      ],
+      [
+        439,
+        440
+      ],
+      [
+        439,
+        440
+      ],
+      [
+        440,
+        440
+      ],
+      [
+        440,
+        439
+      ],
+      [
+        439,
+        439
+      ],
+      [
+        439,
+        439
+      ],
+      [
+        440,
+        439
+      ]
+    ],
+    "method": "integer-row-translation-with-padding",
+    "pixels_deformed": false,
+    "source_pixels_cropped": false,
+    "source_bottom_edge_contacts": [],
+    "warnings": []
+  },
+  "cell_border_trim": 2,
+  "palette": "accent-weighted-224"
+}

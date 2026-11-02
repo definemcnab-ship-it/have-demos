@@ -1,0 +1,180 @@
+{
+  "id": "typewriter-pull-up",
+  "mode": "cycle",
+  "source": "/Users/liahuang/Desktop/\u7ecf\u671f\u8fd0\u52a8/output/female-demos-v1/sources/typewriter-pull-up.png",
+  "source_size": [
+    1774,
+    887
+  ],
+  "size": [
+    448,
+    448
+  ],
+  "frames": 8,
+  "duration_ms": 1760,
+  "loop": 0,
+  "bytes": 332574,
+  "sha256": "d006a6d70737cf49870a0620e467cefad83c1c0d33d663deacf2aff8c67c51bf",
+  "image": "/assets/demo-female/typewriter-pull-up/demo.gif",
+  "poster": "/assets/demo-female/typewriter-pull-up/poster.jpg",
+  "generator": "built-in image_gen",
+  "source_sha256": "408dc33e5e42fbeeaf192b7b555a1491034ff402cde6d10d71f0c4c626296248",
+  "sequence": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "durations_ms": [
+    220,
+    220,
+    220,
+    220,
+    220,
+    220,
+    220,
+    220
+  ],
+  "registration": {
+    "exercise_id": "typewriter-pull-up",
+    "policy": "bar",
+    "applied": true,
+    "confidence": 0.937,
+    "reason": "Corrected one shared vertical camera offset for the second row; intra-row motion preserved.",
+    "anchors": [
+      49,
+      56,
+      56,
+      56,
+      54,
+      55,
+      50,
+      48
+    ],
+    "row_anchors": [
+      56.0,
+      52.0
+    ],
+    "row_median_absolute_deviation": [
+      0.0,
+      2.5
+    ],
+    "offsets": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        4
+      ],
+      [
+        0,
+        4
+      ],
+      [
+        0,
+        4
+      ],
+      [
+        0,
+        4
+      ]
+    ],
+    "paste_origins": [
+      [
+        9,
+        8
+      ],
+      [
+        9,
+        8
+      ],
+      [
+        9,
+        8
+      ],
+      [
+        9,
+        8
+      ],
+      [
+        9,
+        12
+      ],
+      [
+        9,
+        12
+      ],
+      [
+        9,
+        12
+      ],
+      [
+        9,
+        12
+      ]
+    ],
+    "canvas_size": [
+      459,
+      459
+    ],
+    "source_sizes": [
+      [
+        440,
+        440
+      ],
+      [
+        439,
+        440
+      ],
+      [
+        439,
+        440
+      ],
+      [
+        440,
+        440
+      ],
+      [
+        440,
+        439
+      ],
+      [
+        439,
+        439
+      ],
+      [
+        439,
+        439
+      ],
+      [
+        440,
+        439
+      ]
+    ],
+    "method": "integer-row-translation-with-padding",
+    "pixels_deformed": false,
+    "source_pixels_cropped": false,
+    "source_bottom_edge_contacts": [],
+    "warnings": []
+  },
+  "cell_border_trim": 2,
+  "palette": "accent-weighted-224"
+}

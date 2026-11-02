@@ -1,0 +1,180 @@
+{
+  "id": "reformer-side-kick",
+  "mode": "cycle",
+  "source": "/Users/liahuang/Desktop/\u7ecf\u671f\u8fd0\u52a8/output/female-demos-v1/sources/reformer-side-kick.png",
+  "source_size": [
+    1774,
+    887
+  ],
+  "size": [
+    448,
+    448
+  ],
+  "frames": 8,
+  "duration_ms": 1760,
+  "loop": 0,
+  "bytes": 382974,
+  "sha256": "a95c99e0cae830cccb70118df9d6677e267ebc89d5eb9727d8f3619c5930d19a",
+  "image": "/assets/demo-female/reformer-side-kick/demo.gif",
+  "poster": "/assets/demo-female/reformer-side-kick/poster.jpg",
+  "generator": "built-in image_gen",
+  "source_sha256": "69ddb3efbf5d1241a44039deb53ebedf7eee71255c081e3b6d5617706447f3b2",
+  "sequence": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "durations_ms": [
+    220,
+    220,
+    220,
+    220,
+    220,
+    220,
+    220,
+    220
+  ],
+  "registration": {
+    "exercise_id": "reformer-side-kick",
+    "policy": "floor",
+    "applied": false,
+    "confidence": 0.96,
+    "reason": "Fixed anchors already agree within tolerance; no shift applied.",
+    "anchors": [
+      357,
+      357,
+      357,
+      357,
+      356,
+      356,
+      356,
+      356
+    ],
+    "row_anchors": [
+      357.0,
+      356.0
+    ],
+    "row_median_absolute_deviation": [
+      0.0,
+      0.0
+    ],
+    "offsets": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "paste_origins": [
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ]
+    ],
+    "canvas_size": [
+      456,
+      456
+    ],
+    "source_sizes": [
+      [
+        440,
+        440
+      ],
+      [
+        439,
+        440
+      ],
+      [
+        439,
+        440
+      ],
+      [
+        440,
+        440
+      ],
+      [
+        440,
+        439
+      ],
+      [
+        439,
+        439
+      ],
+      [
+        439,
+        439
+      ],
+      [
+        440,
+        439
+      ]
+    ],
+    "method": "integer-row-translation-with-padding",
+    "pixels_deformed": false,
+    "source_pixels_cropped": false,
+    "source_bottom_edge_contacts": [],
+    "warnings": []
+  },
+  "cell_border_trim": 2,
+  "palette": "accent-weighted-224"
+}

@@ -1,0 +1,184 @@
+{
+  "id": "reformer-side-arm",
+  "mode": "pingpong",
+  "source": "/Users/liahuang/Desktop/\u7ecf\u671f\u8fd0\u52a8/output/female-demos-v1/sources/reformer-side-arm.png",
+  "source_size": [
+    1774,
+    887
+  ],
+  "size": [
+    448,
+    448
+  ],
+  "frames": 10,
+  "duration_ms": 2490,
+  "loop": 0,
+  "bytes": 529761,
+  "sha256": "17ef213b9ba5769e17d11de08501becb87d6824a76ae6be50100d2a4a2c71f65",
+  "image": "/assets/demo-female/reformer-side-arm/demo.gif",
+  "poster": "/assets/demo-female/reformer-side-arm/poster.jpg",
+  "generator": "built-in image_gen",
+  "source_sha256": "3bb138a5046c530c442534cd2905405397c91e2c2f6e38f30af18073f15b7735",
+  "sequence": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    6,
+    5,
+    4,
+    3
+  ],
+  "durations_ms": [
+    400,
+    180,
+    180,
+    180,
+    180,
+    650,
+    180,
+    180,
+    180,
+    180
+  ],
+  "registration": {
+    "exercise_id": "reformer-side-arm",
+    "policy": "floor",
+    "applied": true,
+    "confidence": 0.96,
+    "reason": "Corrected one shared vertical camera offset for the second row; intra-row motion preserved.",
+    "anchors": [
+      396,
+      396,
+      396,
+      396,
+      391,
+      391,
+      391,
+      391
+    ],
+    "row_anchors": [
+      396.0,
+      391.0
+    ],
+    "row_median_absolute_deviation": [
+      0.0,
+      0.0
+    ],
+    "offsets": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        5
+      ],
+      [
+        0,
+        5
+      ],
+      [
+        0,
+        5
+      ],
+      [
+        0,
+        5
+      ]
+    ],
+    "paste_origins": [
+      [
+        10,
+        8
+      ],
+      [
+        10,
+        8
+      ],
+      [
+        10,
+        8
+      ],
+      [
+        10,
+        8
+      ],
+      [
+        10,
+        13
+      ],
+      [
+        10,
+        13
+      ],
+      [
+        10,
+        13
+      ],
+      [
+        10,
+        13
+      ]
+    ],
+    "canvas_size": [
+      460,
+      460
+    ],
+    "source_sizes": [
+      [
+        440,
+        440
+      ],
+      [
+        439,
+        440
+      ],
+      [
+        439,
+        440
+      ],
+      [
+        440,
+        440
+      ],
+      [
+        440,
+        439
+      ],
+      [
+        439,
+        439
+      ],
+      [
+        439,
+        439
+      ],
+      [
+        440,
+        439
+      ]
+    ],
+    "method": "integer-row-translation-with-padding",
+    "pixels_deformed": false,
+    "source_pixels_cropped": false,
+    "source_bottom_edge_contacts": [],
+    "warnings": []
+  },
+  "cell_border_trim": 2,
+  "palette": "accent-weighted-224"
+}

@@ -1,0 +1,192 @@
+{
+  "id": "pause-squat",
+  "mode": "pingpong",
+  "source": "/Users/liahuang/Desktop/\u7ecf\u671f\u8fd0\u52a8/output/female-demos-v1/sources/pause-squat.png",
+  "source_size": [
+    1774,
+    887
+  ],
+  "size": [
+    448,
+    448
+  ],
+  "frames": 14,
+  "duration_ms": 4810,
+  "loop": 0,
+  "bytes": 530381,
+  "sha256": "2c9f13ec2a29b3706ed691280bee18ec0d947f2827acc450d57d2854c292e9a9",
+  "image": "/assets/demo-female/pause-squat/demo.gif",
+  "poster": "/assets/demo-female/pause-squat/poster.jpg",
+  "generator": "built-in image_gen",
+  "source_sha256": "2d075e667933b25b08429a51253957aae2439e368a3cbfceb13ecbdc4acc0eb4",
+  "sequence": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    6,
+    5,
+    4,
+    3,
+    2,
+    1
+  ],
+  "durations_ms": [
+    450,
+    160,
+    160,
+    160,
+    160,
+    160,
+    160,
+    2200,
+    200,
+    200,
+    200,
+    200,
+    200,
+    200
+  ],
+  "registration": {
+    "exercise_id": "pause-squat",
+    "policy": "floor",
+    "applied": true,
+    "confidence": 0.951,
+    "reason": "Corrected one shared vertical camera offset for the second row; intra-row motion preserved.",
+    "anchors": [
+      433,
+      434,
+      435,
+      436,
+      394,
+      394,
+      395,
+      395
+    ],
+    "row_anchors": [
+      434.5,
+      394.5
+    ],
+    "row_median_absolute_deviation": [
+      1.0,
+      0.5
+    ],
+    "offsets": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        40
+      ],
+      [
+        0,
+        40
+      ],
+      [
+        0,
+        40
+      ],
+      [
+        0,
+        40
+      ]
+    ],
+    "paste_origins": [
+      [
+        27,
+        8
+      ],
+      [
+        27,
+        8
+      ],
+      [
+        27,
+        8
+      ],
+      [
+        27,
+        8
+      ],
+      [
+        27,
+        48
+      ],
+      [
+        27,
+        48
+      ],
+      [
+        27,
+        48
+      ],
+      [
+        27,
+        48
+      ]
+    ],
+    "canvas_size": [
+      499,
+      499
+    ],
+    "source_sizes": [
+      [
+        444,
+        444
+      ],
+      [
+        443,
+        444
+      ],
+      [
+        443,
+        444
+      ],
+      [
+        444,
+        444
+      ],
+      [
+        444,
+        443
+      ],
+      [
+        443,
+        443
+      ],
+      [
+        443,
+        443
+      ],
+      [
+        444,
+        443
+      ]
+    ],
+    "method": "integer-row-translation-with-padding",
+    "pixels_deformed": false,
+    "source_pixels_cropped": false,
+    "source_bottom_edge_contacts": [],
+    "warnings": []
+  },
+  "cell_border_trim": 0,
+  "palette": "accent-weighted-224"
+}

@@ -1,0 +1,192 @@
+{
+  "id": "reformer-spine-twist",
+  "mode": "pingpong",
+  "source": "/Users/liahuang/Desktop/\u7ecf\u671f\u8fd0\u52a8/output/female-demos-v1/sources/reformer-spine-twist.png",
+  "source_size": [
+    1774,
+    887
+  ],
+  "size": [
+    448,
+    448
+  ],
+  "frames": 14,
+  "duration_ms": 3210,
+  "loop": 0,
+  "bytes": 683738,
+  "sha256": "b1814c0b0809f725f0a30a70a2e3adfd1ade8d38d08585dd2b5af5a0978e8b8f",
+  "image": "/assets/demo-female/reformer-spine-twist/demo.gif",
+  "poster": "/assets/demo-female/reformer-spine-twist/poster.jpg",
+  "generator": "built-in image_gen",
+  "source_sha256": "6b9c688889e678c058c4ba4fd901e46e9445ead0f034dd61332b142b7e275c64",
+  "sequence": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    6,
+    5,
+    4,
+    3,
+    2,
+    1
+  ],
+  "durations_ms": [
+    450,
+    160,
+    160,
+    160,
+    160,
+    160,
+    160,
+    600,
+    200,
+    200,
+    200,
+    200,
+    200,
+    200
+  ],
+  "registration": {
+    "exercise_id": "reformer-spine-twist",
+    "policy": "floor",
+    "applied": true,
+    "confidence": 0.96,
+    "reason": "Corrected one shared vertical camera offset for the second row; intra-row motion preserved.",
+    "anchors": [
+      403,
+      403,
+      403,
+      403,
+      390,
+      390,
+      390,
+      390
+    ],
+    "row_anchors": [
+      403.0,
+      390.0
+    ],
+    "row_median_absolute_deviation": [
+      0.0,
+      0.0
+    ],
+    "offsets": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        13
+      ],
+      [
+        0,
+        13
+      ],
+      [
+        0,
+        13
+      ],
+      [
+        0,
+        13
+      ]
+    ],
+    "paste_origins": [
+      [
+        14,
+        8
+      ],
+      [
+        14,
+        8
+      ],
+      [
+        14,
+        8
+      ],
+      [
+        14,
+        8
+      ],
+      [
+        14,
+        21
+      ],
+      [
+        14,
+        21
+      ],
+      [
+        14,
+        21
+      ],
+      [
+        14,
+        21
+      ]
+    ],
+    "canvas_size": [
+      468,
+      468
+    ],
+    "source_sizes": [
+      [
+        440,
+        440
+      ],
+      [
+        439,
+        440
+      ],
+      [
+        439,
+        440
+      ],
+      [
+        440,
+        440
+      ],
+      [
+        440,
+        439
+      ],
+      [
+        439,
+        439
+      ],
+      [
+        439,
+        439
+      ],
+      [
+        440,
+        439
+      ]
+    ],
+    "method": "integer-row-translation-with-padding",
+    "pixels_deformed": false,
+    "source_pixels_cropped": false,
+    "source_bottom_edge_contacts": [],
+    "warnings": []
+  },
+  "cell_border_trim": 2,
+  "palette": "accent-weighted-224"
+}

@@ -1,0 +1,180 @@
+{
+  "id": "dead-bug",
+  "mode": "pingpong",
+  "source": "/Users/liahuang/Desktop/\u7ecf\u671f\u8fd0\u52a8/output/female-demos-v1/sources/dead-bug.png",
+  "source_size": [
+    1774,
+    887
+  ],
+  "size": [
+    448,
+    448
+  ],
+  "frames": 8,
+  "duration_ms": 2260,
+  "loop": 0,
+  "bytes": 252248,
+  "sha256": "66246a76966dd8b62ce019dbcd332e1786b9b631777e021f1292f92fcf247ec1",
+  "image": "/assets/demo-female/dead-bug/demo.gif",
+  "poster": "/assets/demo-female/dead-bug/poster.jpg",
+  "generator": "built-in image_gen",
+  "source_sha256": "a3cbe08eaad23b4d1668e9ec2ecef33fde0f22cee3dc137fb905ebc1c422a8f2",
+  "sequence": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    3,
+    2,
+    1
+  ],
+  "durations_ms": [
+    400,
+    200,
+    200,
+    200,
+    600,
+    220,
+    220,
+    220
+  ],
+  "registration": {
+    "exercise_id": "dead-bug",
+    "policy": "floor",
+    "applied": false,
+    "confidence": 0.96,
+    "reason": "Fixed anchors already agree within tolerance; no shift applied.",
+    "anchors": [
+      351,
+      351,
+      351,
+      351,
+      349,
+      349,
+      349,
+      349
+    ],
+    "row_anchors": [
+      351.0,
+      349.0
+    ],
+    "row_median_absolute_deviation": [
+      0.0,
+      0.0
+    ],
+    "offsets": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "paste_origins": [
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ]
+    ],
+    "canvas_size": [
+      456,
+      456
+    ],
+    "source_sizes": [
+      [
+        440,
+        440
+      ],
+      [
+        439,
+        440
+      ],
+      [
+        439,
+        440
+      ],
+      [
+        440,
+        440
+      ],
+      [
+        440,
+        439
+      ],
+      [
+        439,
+        439
+      ],
+      [
+        439,
+        439
+      ],
+      [
+        440,
+        439
+      ]
+    ],
+    "method": "integer-row-translation-with-padding",
+    "pixels_deformed": false,
+    "source_pixels_cropped": false,
+    "source_bottom_edge_contacts": [],
+    "warnings": []
+  },
+  "cell_border_trim": 2,
+  "palette": "accent-weighted-224"
+}

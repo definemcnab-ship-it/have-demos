@@ -1,0 +1,180 @@
+{
+  "id": "walking-lunge",
+  "mode": "cycle",
+  "source": "/Users/liahuang/Desktop/\u7ecf\u671f\u8fd0\u52a8/output/female-demos-v1/sources/walking-lunge.png",
+  "source_size": [
+    1774,
+    887
+  ],
+  "size": [
+    448,
+    448
+  ],
+  "frames": 8,
+  "duration_ms": 1760,
+  "loop": 0,
+  "bytes": 272298,
+  "sha256": "86f01609e223069f34c1de3b2e61d4263f501d0751cebc37c09d3a3eb49a93d2",
+  "image": "/assets/demo-female/walking-lunge/demo.gif",
+  "poster": "/assets/demo-female/walking-lunge/poster.jpg",
+  "generator": "built-in image_gen",
+  "source_sha256": "5f47b22d09286d0b557841e93af08fee08f5125a1d867e73c4381d2a1fe8c840",
+  "sequence": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "durations_ms": [
+    220,
+    220,
+    220,
+    220,
+    220,
+    220,
+    220,
+    220
+  ],
+  "registration": {
+    "exercise_id": "walking-lunge",
+    "policy": "none",
+    "applied": false,
+    "confidence": 0.0,
+    "reason": "Motion has no unambiguous stationary anchor; preserved all source motion.",
+    "anchors": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "row_anchors": [
+      null,
+      null
+    ],
+    "row_median_absolute_deviation": [
+      null,
+      null
+    ],
+    "offsets": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "paste_origins": [
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ]
+    ],
+    "canvas_size": [
+      460,
+      460
+    ],
+    "source_sizes": [
+      [
+        444,
+        444
+      ],
+      [
+        443,
+        444
+      ],
+      [
+        443,
+        444
+      ],
+      [
+        444,
+        444
+      ],
+      [
+        444,
+        443
+      ],
+      [
+        443,
+        443
+      ],
+      [
+        443,
+        443
+      ],
+      [
+        444,
+        443
+      ]
+    ],
+    "method": "integer-row-translation-with-padding",
+    "pixels_deformed": false,
+    "source_pixels_cropped": false,
+    "source_bottom_edge_contacts": [],
+    "warnings": []
+  },
+  "cell_border_trim": 0,
+  "palette": "accent-weighted-224"
+}

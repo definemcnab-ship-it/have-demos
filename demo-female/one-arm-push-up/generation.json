@@ -1,0 +1,192 @@
+{
+  "id": "one-arm-push-up",
+  "mode": "pingpong",
+  "source": "/Users/liahuang/Desktop/\u7ecf\u671f\u8fd0\u52a8/output/female-demos-v1/sources/one-arm-push-up.png",
+  "source_size": [
+    1774,
+    887
+  ],
+  "size": [
+    448,
+    448
+  ],
+  "frames": 14,
+  "duration_ms": 3210,
+  "loop": 0,
+  "bytes": 423953,
+  "sha256": "da82ed6db4953e1118eadc2ce1bec0e9fb0f8b79513164ef7f9997baefeff6ef",
+  "image": "/assets/demo-female/one-arm-push-up/demo.gif",
+  "poster": "/assets/demo-female/one-arm-push-up/poster.jpg",
+  "generator": "built-in image_gen",
+  "source_sha256": "0c2aaea420cf37741006c4c7877f6f1460a7dece20a033a6e44497dcc1d0dd6d",
+  "sequence": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    6,
+    5,
+    4,
+    3,
+    2,
+    1
+  ],
+  "durations_ms": [
+    450,
+    160,
+    160,
+    160,
+    160,
+    160,
+    160,
+    600,
+    200,
+    200,
+    200,
+    200,
+    200,
+    200
+  ],
+  "registration": {
+    "exercise_id": "one-arm-push-up",
+    "policy": "floor",
+    "applied": true,
+    "confidence": 0.96,
+    "reason": "Corrected one shared vertical camera offset for the second row; intra-row motion preserved.",
+    "anchors": [
+      376,
+      376,
+      376,
+      376,
+      363,
+      363,
+      363,
+      363
+    ],
+    "row_anchors": [
+      376.0,
+      363.0
+    ],
+    "row_median_absolute_deviation": [
+      0.0,
+      0.0
+    ],
+    "offsets": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        13
+      ],
+      [
+        0,
+        13
+      ],
+      [
+        0,
+        13
+      ],
+      [
+        0,
+        13
+      ]
+    ],
+    "paste_origins": [
+      [
+        14,
+        8
+      ],
+      [
+        14,
+        8
+      ],
+      [
+        14,
+        8
+      ],
+      [
+        14,
+        8
+      ],
+      [
+        14,
+        21
+      ],
+      [
+        14,
+        21
+      ],
+      [
+        14,
+        21
+      ],
+      [
+        14,
+        21
+      ]
+    ],
+    "canvas_size": [
+      468,
+      468
+    ],
+    "source_sizes": [
+      [
+        440,
+        440
+      ],
+      [
+        439,
+        440
+      ],
+      [
+        439,
+        440
+      ],
+      [
+        440,
+        440
+      ],
+      [
+        440,
+        439
+      ],
+      [
+        439,
+        439
+      ],
+      [
+        439,
+        439
+      ],
+      [
+        440,
+        439
+      ]
+    ],
+    "method": "integer-row-translation-with-padding",
+    "pixels_deformed": false,
+    "source_pixels_cropped": false,
+    "source_bottom_edge_contacts": [],
+    "warnings": []
+  },
+  "cell_border_trim": 2,
+  "palette": "accent-weighted-224"
+}

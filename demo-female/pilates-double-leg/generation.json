@@ -1,0 +1,180 @@
+{
+  "id": "pilates-double-leg",
+  "mode": "cycle",
+  "source": "/Users/liahuang/Desktop/\u7ecf\u671f\u8fd0\u52a8/output/female-demos-v1/sources/pilates-double-leg.png",
+  "source_size": [
+    1774,
+    887
+  ],
+  "size": [
+    448,
+    448
+  ],
+  "frames": 8,
+  "duration_ms": 1760,
+  "loop": 0,
+  "bytes": 232794,
+  "sha256": "01c205fd49ddeb76ecd2332b6c09404bff08ed922d26133a9d5e2f64bf681eea",
+  "image": "/assets/demo-female/pilates-double-leg/demo.gif",
+  "poster": "/assets/demo-female/pilates-double-leg/poster.jpg",
+  "generator": "built-in image_gen",
+  "source_sha256": "5d4a72e8a1a18a6b473515a637ace6f8c82a24bd5cf27bf56f84b126f20f1846",
+  "sequence": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "durations_ms": [
+    220,
+    220,
+    220,
+    220,
+    220,
+    220,
+    220,
+    220
+  ],
+  "registration": {
+    "exercise_id": "pilates-double-leg",
+    "policy": "floor",
+    "applied": true,
+    "confidence": 0.96,
+    "reason": "Corrected one shared vertical camera offset for the second row; intra-row motion preserved.",
+    "anchors": [
+      354,
+      354,
+      354,
+      354,
+      334,
+      334,
+      334,
+      334
+    ],
+    "row_anchors": [
+      354.0,
+      334.0
+    ],
+    "row_median_absolute_deviation": [
+      0.0,
+      0.0
+    ],
+    "offsets": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        20
+      ],
+      [
+        0,
+        20
+      ],
+      [
+        0,
+        20
+      ],
+      [
+        0,
+        20
+      ]
+    ],
+    "paste_origins": [
+      [
+        17,
+        8
+      ],
+      [
+        17,
+        8
+      ],
+      [
+        17,
+        8
+      ],
+      [
+        17,
+        8
+      ],
+      [
+        17,
+        28
+      ],
+      [
+        17,
+        28
+      ],
+      [
+        17,
+        28
+      ],
+      [
+        17,
+        28
+      ]
+    ],
+    "canvas_size": [
+      475,
+      475
+    ],
+    "source_sizes": [
+      [
+        440,
+        440
+      ],
+      [
+        439,
+        440
+      ],
+      [
+        439,
+        440
+      ],
+      [
+        440,
+        440
+      ],
+      [
+        440,
+        439
+      ],
+      [
+        439,
+        439
+      ],
+      [
+        439,
+        439
+      ],
+      [
+        440,
+        439
+      ]
+    ],
+    "method": "integer-row-translation-with-padding",
+    "pixels_deformed": false,
+    "source_pixels_cropped": false,
+    "source_bottom_edge_contacts": [],
+    "warnings": []
+  },
+  "cell_border_trim": 2,
+  "palette": "accent-weighted-224"
+}

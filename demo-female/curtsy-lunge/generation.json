@@ -1,0 +1,180 @@
+{
+  "id": "curtsy-lunge",
+  "mode": "cycle",
+  "source": "/Users/liahuang/Desktop/\u7ecf\u671f\u8fd0\u52a8/output/female-demos-v1/sources/curtsy-lunge.png",
+  "source_size": [
+    1774,
+    887
+  ],
+  "size": [
+    448,
+    448
+  ],
+  "frames": 8,
+  "duration_ms": 1760,
+  "loop": 0,
+  "bytes": 246855,
+  "sha256": "8e66c095eb8c81ed987a9875d4bd7dc0bd32f0910aa602dcba1d0710d349b482",
+  "image": "/assets/demo-female/curtsy-lunge/demo.gif",
+  "poster": "/assets/demo-female/curtsy-lunge/poster.jpg",
+  "generator": "built-in image_gen",
+  "source_sha256": "26f19196239eb9755a18bc0c9a3082a5c764fa2a6cdd2f69da2631846c502156",
+  "sequence": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "durations_ms": [
+    220,
+    220,
+    220,
+    220,
+    220,
+    220,
+    220,
+    220
+  ],
+  "registration": {
+    "exercise_id": "curtsy-lunge",
+    "policy": "floor",
+    "applied": false,
+    "confidence": 0.951,
+    "reason": "Fixed anchors already agree within tolerance; no shift applied.",
+    "anchors": [
+      414,
+      412,
+      410,
+      410,
+      410,
+      401,
+      409,
+      410
+    ],
+    "row_anchors": [
+      411.0,
+      409.5
+    ],
+    "row_median_absolute_deviation": [
+      1.0,
+      0.5
+    ],
+    "offsets": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "paste_origins": [
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ]
+    ],
+    "canvas_size": [
+      456,
+      456
+    ],
+    "source_sizes": [
+      [
+        440,
+        440
+      ],
+      [
+        439,
+        440
+      ],
+      [
+        439,
+        440
+      ],
+      [
+        440,
+        440
+      ],
+      [
+        440,
+        439
+      ],
+      [
+        439,
+        439
+      ],
+      [
+        439,
+        439
+      ],
+      [
+        440,
+        439
+      ]
+    ],
+    "method": "integer-row-translation-with-padding",
+    "pixels_deformed": false,
+    "source_pixels_cropped": false,
+    "source_bottom_edge_contacts": [],
+    "warnings": []
+  },
+  "cell_border_trim": 2,
+  "palette": "accent-weighted-224"
+}

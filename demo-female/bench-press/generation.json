@@ -1,0 +1,192 @@
+{
+  "id": "bench-press",
+  "mode": "pingpong",
+  "source": "/Users/liahuang/Desktop/\u7ecf\u671f\u8fd0\u52a8/output/female-demos-v1/sources/bench-press.png",
+  "source_size": [
+    1774,
+    887
+  ],
+  "size": [
+    448,
+    448
+  ],
+  "frames": 14,
+  "duration_ms": 3210,
+  "loop": 0,
+  "bytes": 804014,
+  "sha256": "64913fc4972fc6bac149cfe30eb9daf33486fdc0da8b0be0cfcc70b60a9733a2",
+  "image": "/assets/demo-female/bench-press/demo.gif",
+  "poster": "/assets/demo-female/bench-press/poster.jpg",
+  "generator": "built-in image_gen",
+  "source_sha256": "6085dafae5948288a10c609ed75887ccd0978d7261f9119261769b1f64179dcf",
+  "sequence": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    6,
+    5,
+    4,
+    3,
+    2,
+    1
+  ],
+  "durations_ms": [
+    450,
+    160,
+    160,
+    160,
+    160,
+    160,
+    160,
+    600,
+    200,
+    200,
+    200,
+    200,
+    200,
+    200
+  ],
+  "registration": {
+    "exercise_id": "bench-press",
+    "policy": "floor",
+    "applied": true,
+    "confidence": 0.955,
+    "reason": "Corrected one shared vertical camera offset for the second row; intra-row motion preserved.",
+    "anchors": [
+      424,
+      424,
+      424,
+      424,
+      394,
+      393,
+      394,
+      399
+    ],
+    "row_anchors": [
+      424.0,
+      394.0
+    ],
+    "row_median_absolute_deviation": [
+      0.0,
+      0.5
+    ],
+    "offsets": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        30
+      ],
+      [
+        0,
+        30
+      ],
+      [
+        0,
+        30
+      ],
+      [
+        0,
+        30
+      ]
+    ],
+    "paste_origins": [
+      [
+        22,
+        8
+      ],
+      [
+        22,
+        8
+      ],
+      [
+        22,
+        8
+      ],
+      [
+        22,
+        8
+      ],
+      [
+        22,
+        38
+      ],
+      [
+        22,
+        38
+      ],
+      [
+        22,
+        38
+      ],
+      [
+        22,
+        38
+      ]
+    ],
+    "canvas_size": [
+      489,
+      489
+    ],
+    "source_sizes": [
+      [
+        444,
+        444
+      ],
+      [
+        443,
+        444
+      ],
+      [
+        443,
+        444
+      ],
+      [
+        444,
+        444
+      ],
+      [
+        444,
+        443
+      ],
+      [
+        443,
+        443
+      ],
+      [
+        443,
+        443
+      ],
+      [
+        444,
+        443
+      ]
+    ],
+    "method": "integer-row-translation-with-padding",
+    "pixels_deformed": false,
+    "source_pixels_cropped": false,
+    "source_bottom_edge_contacts": [],
+    "warnings": []
+  },
+  "cell_border_trim": 0,
+  "palette": "accent-weighted-224"
+}

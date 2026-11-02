@@ -1,0 +1,199 @@
+{
+  "id": "tempo-squat",
+  "mode": "pingpong",
+  "source": "/Users/liahuang/Desktop/\u7ecf\u671f\u8fd0\u52a8/output/female-demos-v1/sources/tempo-squat.png",
+  "source_size": [
+    1774,
+    887
+  ],
+  "size": [
+    448,
+    448
+  ],
+  "frames": 14,
+  "duration_ms": 4540,
+  "loop": 0,
+  "bytes": 534479,
+  "sha256": "14aeddc6b2578556ffe0a2fba688d73efd60c3bac2779dc267a179189f76848c",
+  "image": "/assets/demo-female/tempo-squat/demo.gif",
+  "poster": "/assets/demo-female/tempo-squat/poster.jpg",
+  "generator": "built-in image_gen",
+  "source_sha256": "818e0063c06e77e49577de385a47630015ef1774cc27486666c421344cd62127",
+  "sequence": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    6,
+    5,
+    4,
+    3,
+    2,
+    1
+  ],
+  "durations_ms": [
+    300,
+    400,
+    400,
+    400,
+    400,
+    400,
+    400,
+    1000,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140
+  ],
+  "registration": {
+    "exercise_id": "tempo-squat",
+    "policy": "floor",
+    "applied": true,
+    "confidence": 0.84,
+    "reason": "Corrected one shared vertical camera offset for the second row; intra-row motion preserved.",
+    "anchors": [
+      443,
+      443,
+      443,
+      443,
+      410,
+      410,
+      410,
+      410
+    ],
+    "row_anchors": [
+      443.0,
+      410.0
+    ],
+    "row_median_absolute_deviation": [
+      0.0,
+      0.0
+    ],
+    "offsets": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        33
+      ],
+      [
+        0,
+        33
+      ],
+      [
+        0,
+        33
+      ],
+      [
+        0,
+        33
+      ]
+    ],
+    "paste_origins": [
+      [
+        24,
+        8
+      ],
+      [
+        24,
+        8
+      ],
+      [
+        24,
+        8
+      ],
+      [
+        24,
+        8
+      ],
+      [
+        24,
+        41
+      ],
+      [
+        24,
+        41
+      ],
+      [
+        24,
+        41
+      ],
+      [
+        24,
+        41
+      ]
+    ],
+    "canvas_size": [
+      492,
+      492
+    ],
+    "source_sizes": [
+      [
+        444,
+        444
+      ],
+      [
+        443,
+        444
+      ],
+      [
+        443,
+        444
+      ],
+      [
+        444,
+        444
+      ],
+      [
+        444,
+        443
+      ],
+      [
+        443,
+        443
+      ],
+      [
+        443,
+        443
+      ],
+      [
+        444,
+        443
+      ]
+    ],
+    "method": "integer-row-translation-with-padding",
+    "pixels_deformed": false,
+    "source_pixels_cropped": false,
+    "source_bottom_edge_contacts": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "warnings": [
+      "Dark source content touches a cell bottom; existing clipping cannot be restored."
+    ]
+  },
+  "cell_border_trim": 0,
+  "palette": "accent-weighted-224"
+}

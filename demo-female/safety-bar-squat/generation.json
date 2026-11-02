@@ -1,0 +1,192 @@
+{
+  "id": "safety-bar-squat",
+  "mode": "pingpong",
+  "source": "/Users/liahuang/Desktop/\u7ecf\u671f\u8fd0\u52a8/output/female-demos-v1/sources/safety-bar-squat.png",
+  "source_size": [
+    1774,
+    887
+  ],
+  "size": [
+    448,
+    448
+  ],
+  "frames": 14,
+  "duration_ms": 3210,
+  "loop": 0,
+  "bytes": 478232,
+  "sha256": "890f46efc4b5e0c6feddb03c02cabbfe0d3944c5328dc417543c82af993da3fc",
+  "image": "/assets/demo-female/safety-bar-squat/demo.gif",
+  "poster": "/assets/demo-female/safety-bar-squat/poster.jpg",
+  "generator": "built-in image_gen",
+  "source_sha256": "3fd670b5aefc6736bacde94264197cd217fde2daa52e7174b5b40b9c40b8d903",
+  "sequence": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    6,
+    5,
+    4,
+    3,
+    2,
+    1
+  ],
+  "durations_ms": [
+    450,
+    160,
+    160,
+    160,
+    160,
+    160,
+    160,
+    600,
+    200,
+    200,
+    200,
+    200,
+    200,
+    200
+  ],
+  "registration": {
+    "exercise_id": "safety-bar-squat",
+    "policy": "floor",
+    "applied": true,
+    "confidence": 0.96,
+    "reason": "Corrected one shared vertical camera offset for the second row; intra-row motion preserved.",
+    "anchors": [
+      423,
+      423,
+      423,
+      423,
+      392,
+      392,
+      392,
+      392
+    ],
+    "row_anchors": [
+      423.0,
+      392.0
+    ],
+    "row_median_absolute_deviation": [
+      0.0,
+      0.0
+    ],
+    "offsets": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        31
+      ],
+      [
+        0,
+        31
+      ],
+      [
+        0,
+        31
+      ],
+      [
+        0,
+        31
+      ]
+    ],
+    "paste_origins": [
+      [
+        23,
+        8
+      ],
+      [
+        23,
+        8
+      ],
+      [
+        23,
+        8
+      ],
+      [
+        23,
+        8
+      ],
+      [
+        23,
+        39
+      ],
+      [
+        23,
+        39
+      ],
+      [
+        23,
+        39
+      ],
+      [
+        23,
+        39
+      ]
+    ],
+    "canvas_size": [
+      486,
+      486
+    ],
+    "source_sizes": [
+      [
+        440,
+        440
+      ],
+      [
+        439,
+        440
+      ],
+      [
+        439,
+        440
+      ],
+      [
+        440,
+        440
+      ],
+      [
+        440,
+        439
+      ],
+      [
+        439,
+        439
+      ],
+      [
+        439,
+        439
+      ],
+      [
+        440,
+        439
+      ]
+    ],
+    "method": "integer-row-translation-with-padding",
+    "pixels_deformed": false,
+    "source_pixels_cropped": false,
+    "source_bottom_edge_contacts": [],
+    "warnings": []
+  },
+  "cell_border_trim": 2,
+  "palette": "accent-weighted-224"
+}

@@ -1,0 +1,197 @@
+{
+  "id": "sumo-deadlift",
+  "mode": "pingpong",
+  "source": "/Users/liahuang/Desktop/\u7ecf\u671f\u8fd0\u52a8/output/female-demos-v1/sources/sumo-deadlift.png",
+  "source_size": [
+    1774,
+    887
+  ],
+  "size": [
+    448,
+    448
+  ],
+  "frames": 14,
+  "duration_ms": 3210,
+  "loop": 0,
+  "bytes": 710194,
+  "sha256": "45bb9d77b83e459db803e4a2a3be872eaaaa97feea1a16a23751af65ea5df507",
+  "image": "/assets/demo-female/sumo-deadlift/demo.gif",
+  "poster": "/assets/demo-female/sumo-deadlift/poster.jpg",
+  "generator": "built-in image_gen",
+  "source_sha256": "b440e7abe8eae3f95fbbf58d56bbfc2aba7150a4cfd1ff1c5d72a0ac2162cda3",
+  "sequence": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    6,
+    5,
+    4,
+    3,
+    2,
+    1
+  ],
+  "durations_ms": [
+    450,
+    160,
+    160,
+    160,
+    160,
+    160,
+    160,
+    600,
+    200,
+    200,
+    200,
+    200,
+    200,
+    200
+  ],
+  "registration": {
+    "exercise_id": "sumo-deadlift",
+    "policy": "floor",
+    "applied": false,
+    "confidence": 0,
+    "reason": "Missing or inconsistent fixed anchors; conservative no-shift fallback.",
+    "anchors": [
+      404,
+      404,
+      443,
+      443,
+      398,
+      398,
+      399,
+      400
+    ],
+    "row_anchors": [
+      423.5,
+      398.5
+    ],
+    "row_median_absolute_deviation": [
+      19.5,
+      0.5
+    ],
+    "offsets": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "paste_origins": [
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        8,
+        8
+      ]
+    ],
+    "canvas_size": [
+      460,
+      460
+    ],
+    "source_sizes": [
+      [
+        444,
+        444
+      ],
+      [
+        443,
+        444
+      ],
+      [
+        443,
+        444
+      ],
+      [
+        444,
+        444
+      ],
+      [
+        444,
+        443
+      ],
+      [
+        443,
+        443
+      ],
+      [
+        443,
+        443
+      ],
+      [
+        444,
+        443
+      ]
+    ],
+    "method": "integer-row-translation-with-padding",
+    "pixels_deformed": false,
+    "source_pixels_cropped": false,
+    "source_bottom_edge_contacts": [
+      2,
+      3
+    ],
+    "warnings": [
+      "Dark source content touches a cell bottom; existing clipping cannot be restored."
+    ]
+  },
+  "cell_border_trim": 0,
+  "palette": "accent-weighted-224"
+}

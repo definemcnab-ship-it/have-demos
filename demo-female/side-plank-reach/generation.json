@@ -1,0 +1,192 @@
+{
+  "id": "side-plank-reach",
+  "mode": "pingpong",
+  "source": "/Users/liahuang/Desktop/\u7ecf\u671f\u8fd0\u52a8/output/female-demos-v1/sources/side-plank-reach.png",
+  "source_size": [
+    1774,
+    887
+  ],
+  "size": [
+    448,
+    448
+  ],
+  "frames": 14,
+  "duration_ms": 3210,
+  "loop": 0,
+  "bytes": 385561,
+  "sha256": "56309e4eb65faa1c4b6784eb0198e5da397110fb6c2e8cf24cd154449ad08f6e",
+  "image": "/assets/demo-female/side-plank-reach/demo.gif",
+  "poster": "/assets/demo-female/side-plank-reach/poster.jpg",
+  "generator": "built-in image_gen",
+  "source_sha256": "2aa6338f5d13eef119735a9d034acf7c110c56bc5f8d4f7ec3fa9ea1b2a73f9b",
+  "sequence": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    6,
+    5,
+    4,
+    3,
+    2,
+    1
+  ],
+  "durations_ms": [
+    450,
+    160,
+    160,
+    160,
+    160,
+    160,
+    160,
+    600,
+    200,
+    200,
+    200,
+    200,
+    200,
+    200
+  ],
+  "registration": {
+    "exercise_id": "side-plank-reach",
+    "policy": "floor",
+    "applied": true,
+    "confidence": 0.919,
+    "reason": "Corrected one shared vertical camera offset for the second row; intra-row motion preserved.",
+    "anchors": [
+      375,
+      375,
+      375,
+      375,
+      344,
+      344,
+      353,
+      356
+    ],
+    "row_anchors": [
+      375.0,
+      348.5
+    ],
+    "row_median_absolute_deviation": [
+      0.0,
+      4.5
+    ],
+    "offsets": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        26
+      ],
+      [
+        0,
+        26
+      ],
+      [
+        0,
+        26
+      ],
+      [
+        0,
+        26
+      ]
+    ],
+    "paste_origins": [
+      [
+        20,
+        8
+      ],
+      [
+        20,
+        8
+      ],
+      [
+        20,
+        8
+      ],
+      [
+        20,
+        8
+      ],
+      [
+        20,
+        34
+      ],
+      [
+        20,
+        34
+      ],
+      [
+        20,
+        34
+      ],
+      [
+        20,
+        34
+      ]
+    ],
+    "canvas_size": [
+      481,
+      481
+    ],
+    "source_sizes": [
+      [
+        440,
+        440
+      ],
+      [
+        439,
+        440
+      ],
+      [
+        439,
+        440
+      ],
+      [
+        440,
+        440
+      ],
+      [
+        440,
+        439
+      ],
+      [
+        439,
+        439
+      ],
+      [
+        439,
+        439
+      ],
+      [
+        440,
+        439
+      ]
+    ],
+    "method": "integer-row-translation-with-padding",
+    "pixels_deformed": false,
+    "source_pixels_cropped": false,
+    "source_bottom_edge_contacts": [],
+    "warnings": []
+  },
+  "cell_border_trim": 2,
+  "palette": "accent-weighted-224"
+}

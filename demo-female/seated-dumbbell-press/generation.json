@@ -1,0 +1,192 @@
+{
+  "id": "seated-dumbbell-press",
+  "mode": "pingpong",
+  "source": "/Users/liahuang/Desktop/\u7ecf\u671f\u8fd0\u52a8/output/female-demos-v1/sources/seated-dumbbell-press.png",
+  "source_size": [
+    1774,
+    887
+  ],
+  "size": [
+    448,
+    448
+  ],
+  "frames": 14,
+  "duration_ms": 3210,
+  "loop": 0,
+  "bytes": 591387,
+  "sha256": "59ddd93e47988d1681d4cf8a6c3e4b53bcba3d064206be057f268ee90b11459d",
+  "image": "/assets/demo-female/seated-dumbbell-press/demo.gif",
+  "poster": "/assets/demo-female/seated-dumbbell-press/poster.jpg",
+  "generator": "built-in image_gen",
+  "source_sha256": "1a24efaadda9f6c169f1a9d65c9dccfe51575247c13d052e0b3eb7d3566cddee",
+  "sequence": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    6,
+    5,
+    4,
+    3,
+    2,
+    1
+  ],
+  "durations_ms": [
+    450,
+    160,
+    160,
+    160,
+    160,
+    160,
+    160,
+    600,
+    200,
+    200,
+    200,
+    200,
+    200,
+    200
+  ],
+  "registration": {
+    "exercise_id": "seated-dumbbell-press",
+    "policy": "floor",
+    "applied": true,
+    "confidence": 0.955,
+    "reason": "Corrected one shared vertical camera offset for the second row; intra-row motion preserved.",
+    "anchors": [
+      421,
+      421,
+      421,
+      421,
+      410,
+      411,
+      410,
+      411
+    ],
+    "row_anchors": [
+      421.0,
+      410.5
+    ],
+    "row_median_absolute_deviation": [
+      0.0,
+      0.5
+    ],
+    "offsets": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        10
+      ],
+      [
+        0,
+        10
+      ],
+      [
+        0,
+        10
+      ],
+      [
+        0,
+        10
+      ]
+    ],
+    "paste_origins": [
+      [
+        12,
+        8
+      ],
+      [
+        12,
+        8
+      ],
+      [
+        12,
+        8
+      ],
+      [
+        12,
+        8
+      ],
+      [
+        12,
+        18
+      ],
+      [
+        12,
+        18
+      ],
+      [
+        12,
+        18
+      ],
+      [
+        12,
+        18
+      ]
+    ],
+    "canvas_size": [
+      465,
+      465
+    ],
+    "source_sizes": [
+      [
+        440,
+        440
+      ],
+      [
+        439,
+        440
+      ],
+      [
+        439,
+        440
+      ],
+      [
+        440,
+        440
+      ],
+      [
+        440,
+        439
+      ],
+      [
+        439,
+        439
+      ],
+      [
+        439,
+        439
+      ],
+      [
+        440,
+        439
+      ]
+    ],
+    "method": "integer-row-translation-with-padding",
+    "pixels_deformed": false,
+    "source_pixels_cropped": false,
+    "source_bottom_edge_contacts": [],
+    "warnings": []
+  },
+  "cell_border_trim": 2,
+  "palette": "accent-weighted-224"
+}

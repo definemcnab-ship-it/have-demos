@@ -1,0 +1,192 @@
+{
+  "id": "glute-ham-raise",
+  "mode": "pingpong",
+  "source": "/Users/liahuang/Desktop/\u7ecf\u671f\u8fd0\u52a8/output/female-demos-v1/sources/glute-ham-raise.png",
+  "source_size": [
+    1774,
+    887
+  ],
+  "size": [
+    448,
+    448
+  ],
+  "frames": 14,
+  "duration_ms": 3210,
+  "loop": 0,
+  "bytes": 349396,
+  "sha256": "eea4ee9f8149227f2c907e5ebc7058a1d4ce573429ef75a0039466ad0b551ce0",
+  "image": "/assets/demo-female/glute-ham-raise/demo.gif",
+  "poster": "/assets/demo-female/glute-ham-raise/poster.jpg",
+  "generator": "built-in image_gen",
+  "source_sha256": "868c5dc4b93df63535cd1836d0c7f0a050c60bcbb1737b1c6602ae0095b87834",
+  "sequence": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    6,
+    5,
+    4,
+    3,
+    2,
+    1
+  ],
+  "durations_ms": [
+    450,
+    160,
+    160,
+    160,
+    160,
+    160,
+    160,
+    600,
+    200,
+    200,
+    200,
+    200,
+    200,
+    200
+  ],
+  "registration": {
+    "exercise_id": "glute-ham-raise",
+    "policy": "floor",
+    "applied": true,
+    "confidence": 0.96,
+    "reason": "Corrected one shared vertical camera offset for the second row; intra-row motion preserved.",
+    "anchors": [
+      397,
+      397,
+      397,
+      397,
+      361,
+      361,
+      361,
+      361
+    ],
+    "row_anchors": [
+      397.0,
+      361.0
+    ],
+    "row_median_absolute_deviation": [
+      0.0,
+      0.0
+    ],
+    "offsets": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        36
+      ],
+      [
+        0,
+        36
+      ],
+      [
+        0,
+        36
+      ],
+      [
+        0,
+        36
+      ]
+    ],
+    "paste_origins": [
+      [
+        25,
+        8
+      ],
+      [
+        25,
+        8
+      ],
+      [
+        25,
+        8
+      ],
+      [
+        25,
+        8
+      ],
+      [
+        25,
+        44
+      ],
+      [
+        25,
+        44
+      ],
+      [
+        25,
+        44
+      ],
+      [
+        25,
+        44
+      ]
+    ],
+    "canvas_size": [
+      491,
+      491
+    ],
+    "source_sizes": [
+      [
+        440,
+        440
+      ],
+      [
+        439,
+        440
+      ],
+      [
+        439,
+        440
+      ],
+      [
+        440,
+        440
+      ],
+      [
+        440,
+        439
+      ],
+      [
+        439,
+        439
+      ],
+      [
+        439,
+        439
+      ],
+      [
+        440,
+        439
+      ]
+    ],
+    "method": "integer-row-translation-with-padding",
+    "pixels_deformed": false,
+    "source_pixels_cropped": false,
+    "source_bottom_edge_contacts": [],
+    "warnings": []
+  },
+  "cell_border_trim": 2,
+  "palette": "accent-weighted-224"
+}

@@ -1,0 +1,192 @@
+{
+  "id": "deficit-rdl",
+  "mode": "pingpong",
+  "source": "/Users/liahuang/Desktop/\u7ecf\u671f\u8fd0\u52a8/output/female-demos-v1/sources/deficit-rdl.png",
+  "source_size": [
+    1774,
+    887
+  ],
+  "size": [
+    448,
+    448
+  ],
+  "frames": 14,
+  "duration_ms": 3210,
+  "loop": 0,
+  "bytes": 336760,
+  "sha256": "cf4e66830f232e83bfee5616a4db98b1a9af62b4151a98224eab420d91828aee",
+  "image": "/assets/demo-female/deficit-rdl/demo.gif",
+  "poster": "/assets/demo-female/deficit-rdl/poster.jpg",
+  "generator": "built-in image_gen",
+  "source_sha256": "e12128a4cff5785a1e48923f069657b346a42f95cf3dc98aed827c49a320dc6b",
+  "sequence": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    6,
+    5,
+    4,
+    3,
+    2,
+    1
+  ],
+  "durations_ms": [
+    450,
+    160,
+    160,
+    160,
+    160,
+    160,
+    160,
+    600,
+    200,
+    200,
+    200,
+    200,
+    200,
+    200
+  ],
+  "registration": {
+    "exercise_id": "deficit-rdl",
+    "policy": "floor",
+    "applied": true,
+    "confidence": 0.96,
+    "reason": "Corrected one shared vertical camera offset for the second row; intra-row motion preserved.",
+    "anchors": [
+      416,
+      416,
+      416,
+      416,
+      389,
+      389,
+      389,
+      389
+    ],
+    "row_anchors": [
+      416.0,
+      389.0
+    ],
+    "row_median_absolute_deviation": [
+      0.0,
+      0.0
+    ],
+    "offsets": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        27
+      ],
+      [
+        0,
+        27
+      ],
+      [
+        0,
+        27
+      ],
+      [
+        0,
+        27
+      ]
+    ],
+    "paste_origins": [
+      [
+        21,
+        8
+      ],
+      [
+        21,
+        8
+      ],
+      [
+        21,
+        8
+      ],
+      [
+        21,
+        8
+      ],
+      [
+        21,
+        35
+      ],
+      [
+        21,
+        35
+      ],
+      [
+        21,
+        35
+      ],
+      [
+        21,
+        35
+      ]
+    ],
+    "canvas_size": [
+      482,
+      482
+    ],
+    "source_sizes": [
+      [
+        440,
+        440
+      ],
+      [
+        439,
+        440
+      ],
+      [
+        439,
+        440
+      ],
+      [
+        440,
+        440
+      ],
+      [
+        440,
+        439
+      ],
+      [
+        439,
+        439
+      ],
+      [
+        439,
+        439
+      ],
+      [
+        440,
+        439
+      ]
+    ],
+    "method": "integer-row-translation-with-padding",
+    "pixels_deformed": false,
+    "source_pixels_cropped": false,
+    "source_bottom_edge_contacts": [],
+    "warnings": []
+  },
+  "cell_border_trim": 2,
+  "palette": "accent-weighted-224"
+}

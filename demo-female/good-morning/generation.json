@@ -1,0 +1,192 @@
+{
+  "id": "good-morning",
+  "mode": "pingpong",
+  "source": "/Users/liahuang/Desktop/\u7ecf\u671f\u8fd0\u52a8/output/female-demos-v1/sources/good-morning.png",
+  "source_size": [
+    1774,
+    887
+  ],
+  "size": [
+    448,
+    448
+  ],
+  "frames": 14,
+  "duration_ms": 3210,
+  "loop": 0,
+  "bytes": 393552,
+  "sha256": "16f72ae661b2a11377c8fd3774b2217f2a99b5864e31164f3af3293cf9a08fdd",
+  "image": "/assets/demo-female/good-morning/demo.gif",
+  "poster": "/assets/demo-female/good-morning/poster.jpg",
+  "generator": "built-in image_gen",
+  "source_sha256": "a5dabb5838aecde721a25943d9b3ccfa26b691a6cd949ac8bade9d0d4aa7da2b",
+  "sequence": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    6,
+    5,
+    4,
+    3,
+    2,
+    1
+  ],
+  "durations_ms": [
+    450,
+    160,
+    160,
+    160,
+    160,
+    160,
+    160,
+    600,
+    200,
+    200,
+    200,
+    200,
+    200,
+    200
+  ],
+  "registration": {
+    "exercise_id": "good-morning",
+    "policy": "floor",
+    "applied": true,
+    "confidence": 0.96,
+    "reason": "Corrected one shared vertical camera offset for the second row; intra-row motion preserved.",
+    "anchors": [
+      423,
+      423,
+      423,
+      423,
+      402,
+      402,
+      402,
+      402
+    ],
+    "row_anchors": [
+      423.0,
+      402.0
+    ],
+    "row_median_absolute_deviation": [
+      0.0,
+      0.0
+    ],
+    "offsets": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        21
+      ],
+      [
+        0,
+        21
+      ],
+      [
+        0,
+        21
+      ],
+      [
+        0,
+        21
+      ]
+    ],
+    "paste_origins": [
+      [
+        18,
+        8
+      ],
+      [
+        18,
+        8
+      ],
+      [
+        18,
+        8
+      ],
+      [
+        18,
+        8
+      ],
+      [
+        18,
+        29
+      ],
+      [
+        18,
+        29
+      ],
+      [
+        18,
+        29
+      ],
+      [
+        18,
+        29
+      ]
+    ],
+    "canvas_size": [
+      476,
+      476
+    ],
+    "source_sizes": [
+      [
+        440,
+        440
+      ],
+      [
+        439,
+        440
+      ],
+      [
+        439,
+        440
+      ],
+      [
+        440,
+        440
+      ],
+      [
+        440,
+        439
+      ],
+      [
+        439,
+        439
+      ],
+      [
+        439,
+        439
+      ],
+      [
+        440,
+        439
+      ]
+    ],
+    "method": "integer-row-translation-with-padding",
+    "pixels_deformed": false,
+    "source_pixels_cropped": false,
+    "source_bottom_edge_contacts": [],
+    "warnings": []
+  },
+  "cell_border_trim": 2,
+  "palette": "accent-weighted-224"
+}
